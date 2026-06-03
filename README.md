@@ -35,11 +35,11 @@ I am an MCA student focused on Machine Learning, Data Analytics, and Software De
 
 ## Projects
 
-🚧 Currently building and uploading projects.
+- Student Performance Analysis
 
 ### Upcoming Projects
 
-- Student Performance Analysis
+
 - Customer Churn Prediction
 - Sales Analytics Dashboard
 - AI Resume Analyzer
