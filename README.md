@@ -4,19 +4,19 @@
 
 ## About Me
 
-I am an MCA student with a strong interest in Data Analytics, Machine Learning, and Software Development. I enjoy transforming raw data into meaningful insights, building data-driven solutions, and continuously improving my technical skills through hands-on projects and practical learning.
+I am an MCA student with a strong interest in Data Analytics, Data Science, and Software Development. I enjoy transforming raw data into actionable insights, solving business problems through analytics, and continuously improving my technical skills through hands-on projects.
 
-My current focus is on developing a strong portfolio in Data Analytics and Machine Learning while preparing for internships and full-time roles in Data Analytics, Data Science, and Software Development.
+My current focus is building a strong portfolio in Data Analytics and Machine Learning while preparing for internships and full-time opportunities in Data Analytics, Data Science, and Software Development.
 
 ## Tech Stack
 
 ### Programming Languages
 
 * Python
-* C++
 * SQL
+* C++
 
-### Data Analytics & Machine Learning
+### Data Analytics & Data Science
 
 * Pandas
 * NumPy
@@ -31,7 +31,7 @@ My current focus is on developing a strong portfolio in Data Analytics and Machi
 * Jupyter Notebook
 * VS Code
 
-## Current Portfolio Projects
+## Data Analytics Portfolio Projects
 
 ### 1. Student Performance Analysis
 
@@ -63,29 +63,72 @@ My current focus is on developing a strong portfolio in Data Analytics and Machi
 * Evaluated the impact of discounts on profitability.
 * Generated business recommendations based on analytical findings.
 
+### 3. Customer Segmentation & RFM Analysis
+
+**Skills Applied:**
+
+* Customer Analytics
+* Revenue Analysis
+* RFM Analysis
+* Customer Segmentation
+* Customer Behavior Analysis
+* Business Recommendations
+
+**Key Findings:**
+
+* Identified high-value customer segments using RFM Analysis.
+* Analyzed customer purchasing behavior and spending patterns.
+* Evaluated customer engagement through recency, frequency, and monetary metrics.
+* Generated customer retention and loyalty recommendations.
+
 ## Currently Building
 
-* Data Analytics Portfolio Projects
-* Machine Learning Applications
-* GitHub Portfolio
-* Technical Interview Preparation
+### Marketing Campaign Analytics
+
+**Focus Areas:**
+
+* Marketing Analytics
+* Campaign Performance Analysis
+* Customer Response Analysis
+* KPI Analysis
+* Business Recommendations
+
+## Core Skills
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Engineering
+* KPI Analysis
+* Time-Series Analysis
+* Customer Analytics
+* RFM Analysis
+* Customer Segmentation
+* Business Insight Generation
+* Business Recommendations
+
+## Portfolio Highlights
+
+* Analyzed over **550,000+ records** across multiple real-world datasets.
+* Built end-to-end analytics projects from data cleaning to business recommendations.
+* Applied customer analytics, business analytics, KPI tracking, and customer segmentation techniques.
+* Created professional visualizations and documented findings through GitHub projects.
+* Developed a structured analytics workflow aligned with real-world business problems.
 
 ## Upcoming Projects
 
-* Customer Segmentation Analysis
-* Customer Churn Prediction
-* Sales Forecasting
-* Netflix Data Analysis
-* AI Resume Analyzer
-* Job Recommendation System
+* Marketing Campaign Analytics
+* HR Analytics
+* Supply Chain Analytics
+* E-commerce Analytics
 
 ## 2026 Goals
 
-* Build 5+ high-quality portfolio projects
-* Strengthen Data Structures & Algorithms
-* Advance skills in Data Analytics and Machine Learning
-* Maintain consistent GitHub contributions
-* Secure a Data Analyst, Data Science, or Software Development role
+* Complete 5+ high-quality analytics projects.
+* Strengthen SQL and Data Structures & Algorithms.
+* Build a separate Machine Learning project portfolio.
+* Maintain consistent GitHub contributions.
+* Secure an internship or full-time role in Data Analytics, Data Science, or Software Development.
 
 ## Connect With Me
 
@@ -94,10 +137,10 @@ My current focus is on developing a strong portfolio in Data Analytics and Machi
 ## GitHub Focus Areas
 
 * Data Analytics
-* Machine Learning
-* Business Intelligence
+* Data Science
+* Business Analytics
+* Customer Analytics
 * Python Development
-* Problem Solving
 
 ---
 
