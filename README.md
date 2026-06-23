@@ -4,9 +4,11 @@
 
 ## About Me
 
-I am an MCA student with a strong interest in Data Analytics, Data Science, and Software Development. I enjoy transforming raw data into actionable insights, solving business problems through analytics, and continuously improving my technical skills through hands-on projects.
+I am an MCA student with a strong interest in Data Analytics, Machine Learning, Data Science, and Software Development. I enjoy transforming raw data into actionable insights, solving business problems through analytics, and building machine learning solutions using real-world datasets.
 
-My current focus is building a strong portfolio in Data Analytics and Machine Learning while preparing for internships and full-time opportunities in Data Analytics, Data Science, and Software Development.
+My current focus is building a strong portfolio in Data Analytics and Machine Learning while preparing for internships and full-time opportunities in Data Analytics, Data Science, Machine Learning, and Software Development.
+
+---
 
 ## Tech Stack
 
@@ -24,6 +26,15 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * Seaborn
 * Scikit-Learn
 
+### Machine Learning
+
+* Logistic Regression
+* Decision Trees
+* Random Forest
+* Feature Engineering
+* Model Evaluation
+* Classification
+
 ### Tools & Technologies
 
 * Git
@@ -31,11 +42,13 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * Jupyter Notebook
 * VS Code
 
+---
+
 ## Data Analytics Portfolio Projects
 
 ### 1. Student Performance Analysis
 
-**Skills Applied:**
+**Skills Applied**
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
@@ -43,9 +56,11 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * Correlation Analysis
 * Insight Generation
 
+---
+
 ### 2. Superstore Business Analytics
 
-**Skills Applied:**
+**Skills Applied**
 
 * Business Analytics
 * Feature Engineering
@@ -56,16 +71,18 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * Profitability Analysis
 * Business Recommendations
 
-**Key Findings:**
+**Key Findings**
 
-* Identified the highest-performing region and product category.
+* Identified the highest-performing regions and product categories.
 * Analyzed customer and product-level performance.
 * Evaluated the impact of discounts on profitability.
-* Generated business recommendations based on analytical findings.
+* Generated actionable business recommendations.
+
+---
 
 ### 3. Customer Segmentation & RFM Analysis
 
-**Skills Applied:**
+**Skills Applied**
 
 * Customer Analytics
 * Revenue Analysis
@@ -74,18 +91,18 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * Customer Behavior Analysis
 * Business Recommendations
 
-**Key Findings:**
+**Key Findings**
 
 * Identified high-value customer segments using RFM Analysis.
 * Analyzed customer purchasing behavior and spending patterns.
 * Evaluated customer engagement through recency, frequency, and monetary metrics.
 * Generated customer retention and loyalty recommendations.
 
-## Currently Building
+---
 
-### Marketing Campaign Analytics
+### 4. Marketing Campaign Analytics
 
-**Focus Areas:**
+**Skills Applied**
 
 * Marketing Analytics
 * Campaign Performance Analysis
@@ -93,50 +110,144 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * KPI Analysis
 * Business Recommendations
 
+---
+
+## Machine Learning Projects
+
+### 1. Customer Churn Analysis & Prediction
+
+**Objective**
+
+Predict whether a telecom customer is likely to churn based on demographic information, account details, and service usage patterns.
+
+**Project Workflow**
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Feature Scaling
+* Model Training
+* Model Evaluation
+* Feature Importance Analysis
+
+**Models Evaluated**
+
+* Logistic Regression
+* Decision Tree
+* Random Forest
+
+**Best Model**
+
+🏆 Logistic Regression
+
+* Accuracy: 80.74%
+* Precision: 64.67%
+* Recall: 60.70%
+* F1 Score: 62.62%
+
+**Key Insights**
+
+* Customers with shorter tenure are more likely to churn.
+* Higher monthly charges increase churn risk.
+* Long-term contracts improve retention.
+* Fiber optic customers exhibit higher churn rates.
+* Electronic check users are more likely to churn.
+
+---
+
 ## Core Skills
+
+### Analytics
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 * Data Visualization
-* Feature Engineering
 * KPI Analysis
-* Time-Series Analysis
 * Customer Analytics
+* Business Analytics
+* Revenue Analysis
 * RFM Analysis
 * Customer Segmentation
-* Business Insight Generation
-* Business Recommendations
+* Time-Series Analysis
+
+### Machine Learning
+
+* Data Preprocessing
+* Feature Engineering
+* One-Hot Encoding
+* Feature Scaling
+* Classification Modeling
+* Model Evaluation
+* Feature Comparison
+* Feature Importance Analysis
+
+### Development
+
+* Python Programming
+* SQL
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
+
+---
 
 ## Portfolio Highlights
 
-* Analyzed over **550,000+ records** across multiple real-world datasets.
+* Analyzed **550,000+ records** across multiple real-world datasets.
 * Built end-to-end analytics projects from data cleaning to business recommendations.
-* Applied customer analytics, business analytics, KPI tracking, and customer segmentation techniques.
+* Completed an end-to-end machine learning classification project.
+* Applied customer analytics, business analytics, KPI tracking, and machine learning techniques.
 * Created professional visualizations and documented findings through GitHub projects.
-* Developed a structured analytics workflow aligned with real-world business problems.
+* Developed structured workflows aligned with real-world business problems.
+
+---
+
+## Current Focus
+
+* Building Machine Learning Project Portfolio
+* Learning Advanced SQL
+* Strengthening Data Structures & Algorithms
+* Exploring Model Optimization Techniques
+* Preparing for Internship Opportunities
+
+---
 
 ## Upcoming Projects
 
-* Marketing Campaign Analytics
+### Data Analytics
+
 * HR Analytics
 * Supply Chain Analytics
 * E-commerce Analytics
 
+### Machine Learning
+
+* House Price Prediction
+* Loan Approval Prediction
+* Customer Segmentation
+* Credit Risk Prediction
+* Sales Forecasting
+
+---
+
 ## 2026 Goals
 
-* Complete 5+ high-quality analytics projects.
-* Strengthen SQL and Data Structures & Algorithms.
-* Build a separate Machine Learning project portfolio.
-* Maintain consistent GitHub contributions.
-* Secure an internship or full-time role in Data Analytics, Data Science, or Software Development.
+* Complete 10+ Data Analytics & Machine Learning Projects
+* Strengthen SQL and Data Structures & Algorithms
+* Build an Industry-Ready Portfolio
+* Maintain Consistent GitHub Contributions
+* Secure an Internship or Full-Time Role in Data Analytics, Data Science, Machine Learning, or Software Development
+
+---
 
 ## Connect With Me
 
 📧 Email: [harshitpoonia31@gmail.com](mailto:harshitpoonia31@gmail.com)
 
-## GitHub Focus Areas
+### GitHub Focus Areas
 
 * Data Analytics
+* Machine Learning
 * Data Science
 * Business Analytics
 * Customer Analytics
